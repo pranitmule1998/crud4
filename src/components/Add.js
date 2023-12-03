@@ -12,7 +12,7 @@ const Add = () =>{
       }
     return(
         <form onSubmit={handleSubmit(savedata)} > <br/>
-       <input type="text" id="name" placeholder="name "  {...register("name")} />
+       <input type="text" id="name" placeholder="name enter "  {...register("name")} />
  
           <label htmlFor="gender" ></label>
             <input type="radio" id="male" value="Male" name="gender" {...register("gender")} />
