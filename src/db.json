@@ -1,0 +1,17 @@
+{
+  "students": [
+    {
+      "id": 0
+    },
+    {
+      "name": "pranit",
+      "gender": "Male",
+      "city": "Akola",
+      "password": "123",
+      "five": false,
+      "six": "6",
+      "seven": false,
+      "id": 1
+    }
+  ]
+}
